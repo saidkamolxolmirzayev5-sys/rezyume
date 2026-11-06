@@ -1,6 +1,6 @@
 # Saidkamol Xolmirzayev
 
-**Data Engineer va Data Analyst**
+**Data Analyst · Data Engineering**
 
 📍 Qo'qon, O'zbekiston · 📞 +998 95 595 25 80 · ✉️ saidkamolxolmirzayev5@gmail.com
 [LinkedIn](https://www.linkedin.com/in/saidkamol-xolmirzayev-71b522446/) · [GitHub](https://github.com/saidkamolxolmirzayev5-sys) · [Telegram](https://t.me/saidkamoluz1)
@@ -15,12 +15,12 @@ Ma'lumotlarni manbadan olib, tozalab, bazaga yuklayman va biznes uchun tushunarl
 
 ## Ish tajribasi
 
-### Turon ODB ilm maktabi — Data Engineer va Data Analyst, filial boshqaruvchisi
+### Turon ODB ilm maktabi — Filial boshqaruvchisi
 *2026-yil iyul – hozirgacha*
 
 - 85 jadvalli PostgreSQL bazasini Docker Compose orqali ishga tushirib, Metabase analitika muhitini sozladim
 - Bazadagi ma'lumotlarni API orqali olish uchun Python va Flask'da prototip yozdim
-- Data engineering va tahlil vazifalarini filialni boshqarish ishi bilan birga olib boraman
+- Filialni boshqarish bilan birga data analitika va data engineering vazifalarini bajaraman
 
 ### Safiya — Data Analyst
 *2026-yil fevral – may · Toshkent*
@@ -42,6 +42,11 @@ Ma'lumotlarni manbadan olib, tozalab, bazaga yuklayman va biznes uchun tushunarl
 
 - REST API'dan ma'lumot oluvchi, `raw` va `mart` qatlamlariga yuklovchi pipeline yozdim (retry, sana bo'yicha bo'laklash, idempotent yuklash)
 - Ikki kunlik DAG yaratib, Docker'dagi Airflow'da sinovdan o'tkazdim
+
+### [powerbi-dashboards](https://github.com/saidkamolxolmirzayev5-sys/powerbi-dashboards) — Power BI dashboardlar
+*Power BI · DAX*
+
+- E-commerce, savdo va logistika bo'yicha 3 ta interaktiv dashboard qurdim
 
 ## Ta'lim
 
